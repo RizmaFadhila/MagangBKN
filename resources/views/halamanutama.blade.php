@@ -8,7 +8,7 @@
 @section('nav')
 @endsection
 @section('tittle')
-    <h3 class="text-themecolor">BKN Kantor Regional XII | Pekanbaru</h3>
+    <h3 class="text-themecolor">BKN Kantor | Pekanbaru</h3>
 @endsection
 
 @section('isi')
